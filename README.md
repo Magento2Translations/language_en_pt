@@ -1,7 +1,7 @@
 # English (English) Magento2 Language Pack (en_PT)
 This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
-The English (English) translations used can be found [here](https://crowdin.com/project/magento-2/en).
-This translation is usefull for people living in the Portugal (Portugal).
+The English (English) translations used can be found [here](https://crowdin.com/project/magento-2/en-PT).
+This translation is usefull for people living in the international waters (Anywhere).
 
 For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
@@ -21,7 +21,12 @@ To install this language package manually you need access to your server file sy
 * Go to your Magento admin panel and clear the caches.
 
 #Usage
-To use this language pack login to your admin panel and goto `Stores -> Configuration -> General > General -> Locale options` and set the '*locale*' option as '*English (Portugal)*'
+To use this language pack login to your admin panel and goto `Stores -> Configuration -> General > General -> Locale options` and set the '*locale*' option as '*English (international waters)*'
 
 # Contribute
 To help push the '*English (English) Magento2 Language Pack (en_PT)*' forward please goto [this](https://crowdin.com/project/magento-2/en) crowdin page and translate the lines.
+
+# Authors
+The translations are done by the [official Magento2 translations project](https://crowdin.com/project/magento-2).
+
+Code generation is sponsored by [Wijzijn.Guru](http://www.wijzijn.guru/).
