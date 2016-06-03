@@ -2,7 +2,6 @@ Remove,"T' Davy Jones' Locker wid it",module,Magento_AdminNotification
 Customers,Pirates,module,Magento_Backend
 Yes,Aye,module,Magento_Backend
 "Report Bugs","Repr't weevils",module,Magento_Backend
-Yes,Aye,module,Magento_Braintree
 Yes,Aye,module,Magento_CatalogRule
 Yes,Aye,module,Magento_CatalogSearch
 "Add to Cart","Add to Chest",module,Magento_CatalogWidget
