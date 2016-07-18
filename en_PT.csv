@@ -113,6 +113,8 @@ Yes,Aye,module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product has nah group price wit' such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
 "Add to Cart","Add to Chest",module,Magento_Catalog
 "Shopping Cart",Chest,module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","Shave me belly wit' a rusty razor! We can nah add this item t' ye chest right now.",module,Magento_Checkout
+"We can't remove the item.","We can nah remove th' item.",module,Magento_Checkout
 "Shopping Cart Items","Items in Chest",module,Magento_Checkout
 Yes,Aye,module,Magento_Config
 Yes,Aye,module,Magento_Customer
