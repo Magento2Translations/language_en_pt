@@ -111,6 +111,7 @@ Yes,Aye,module,Magento_Catalog
 "File '%1' is not an image.","File '%1' ain't an image.",module,Magento_Catalog
 "This product doesn't have tier price","This product does nah 'ave tier price",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product has nah group price wit' such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 does nah extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
 "Add to Cart","Add to Chest",module,Magento_Catalog
 "Shopping Cart",Chest,module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Shave me belly wit' a rusty razor! We can nah add this item t' ye chest right now.",module,Magento_Checkout
