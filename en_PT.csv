@@ -10,7 +10,6 @@ Yes,Aye,module,Magento_Backend
 "Specified cache type(s) don't exist: %1","Blimey! Specified cache type(s) do nah exist: %1",module,Magento_Backend
 "We can't refresh lifetime statistics.","We can nah refresh lifetime statistics.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Well shave me belly with a rusty razor! We can nah create a backup right now. Try again later.",module,Magento_Backend
-"Report Bugs","Repr't weevils",module,Magento_Backend
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Confirm scope switchin'. All data that has nah been saved will be lost. No quarter!",module,Magento_Backend
 "We can't create the backup right now.","We can nah create th' backup right now.",module,Magento_Backup
 "We can't delete one or more backups.","We can nah scuttle one or more backups.",module,Magento_Backup
@@ -39,7 +38,6 @@ Yes,Aye,module,Magento_Catalog
 "Such product doesn't exist","Such product does nah exist",module,Magento_Catalog
 "Such image doesn't exist","Such image does nah exist",module,Magento_Catalog
 "We couldn't move this file: %1.","We could nah move this file: %1.",module,Magento_Catalog
-"We can't find the image file.","We can nah find th' image file.",module,Magento_Catalog
 "Please specify product's required option(s).","Specify product's required option(s).",module,Magento_Catalog
 "We can't add the product to the cart because of an option validation issue.","We can nah add th' product t' th' chest 'cause o' an option validation issue.",module,Magento_Catalog
 "File '%1' is not an image.","File '%1' ain't an image.",module,Magento_Catalog
