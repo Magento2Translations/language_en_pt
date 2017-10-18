@@ -76,6 +76,9 @@ Remove,"T' Davy Jones' Locker wid it",module,Magento_SendFriend
 Remove,"T' Davy Jones' Locker wid it",module,Magento_Theme
 Yes,Aye,module,Magento_Usps
 Yes,Aye,module,Magento_Variable
+"Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Wishlist
+"Add to Cart","Add to Chest",module,Magento_Wishlist
+Remove,"T' Davy Jones' Locker wid it",theme,frontend/Magento/luma
 Remove,"T' Davy Jones' Locker wid it",module,Magento_Checkout
 "We don't recognize or support this file extension type.","Fool! We do nah recognize or support this file extension type.",module,Magento_Backend
 Yes,Aye,module,Magento_CatalogRule
