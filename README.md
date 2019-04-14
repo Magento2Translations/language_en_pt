@@ -6,14 +6,14 @@ Or [Mageplaza maintained packages](https://github.com/mageplaza?q=language).
 
 # English (English) Magento2 Language Pack (en_PT)
 This is a Language Pack generated from the [official Magento2 translations project](https://crowdin.com/project/magento-2) at [Crowdin](https://crowdin.com).
-The English (English) translations used can be found [here](https://crowdin.com/project/magento-2/en-PT).
-This translation is usefull for people living in the international waters (Anywhere).
+The English (English) translations used can be found [here](https://crowdin.com/project/magento-2/en-pt).
+This translation is usefull for people living in the Portugal (Portugal).
 
 For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/en-PT#/Head) at Crowdin and based on the Magento 2.2.0 sourcefiles.
-There have been  73 strings translated of the 8763 strings in the Magento source.
+This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/en-pt#/Head) at Crowdin and based on the Magento 2.3.1 sourcefiles.
+There have been  75 strings translated of the 11254 strings in the Magento source.
 
 Translation progress:![Progress](http://progressed.io/bar/1)
 
@@ -34,10 +34,10 @@ To install this language package manually you need access to your server file sy
 * Go to your Magento admin panel and clear the caches.
 
 #Usage
-To use this language pack login to your admin panel and goto `Stores -> Configuration -> General > General -> Locale options` and set the '*locale*' option as '*English (international waters)*'
+To use this language pack login to your admin panel and goto `Stores -> Configuration -> General > General -> Locale options` and set the '*locale*' option as '*English (Portugal)*'
 
 # Contribute
-To help push the '*English (English) Magento2 Language Pack (en_PT)*' forward please goto [this](https://crowdin.com/project/magento-2/en-PT) crowdin page and translate the lines.
+To help push the '*English (English) Magento2 Language Pack (en_PT)*' forward please goto [this](https://crowdin.com/project/magento-2/en-pt) crowdin page and translate the lines.
 
 # Authors
 The translations are done by the [official Magento2 translations project](https://crowdin.com/project/magento-2).
