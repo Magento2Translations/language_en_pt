@@ -1,0 +1,41 @@
+Remove,"T' Davy Jones' Locker wid it",module,Magento_AdminNotification
+Customers,Pirates,module,Magento_Backend
+Yes,Aye,module,Magento_Backend
+"Report Bugs","Repr't weevils",module,Magento_Backend
+Yes,Aye,module,Magento_CatalogSearch
+"Add to Cart","Add to Chest",module,Magento_CatalogWidget
+Yes,Aye,module,Magento_Catalog
+"Add to Cart","Add to Chest",module,Magento_Catalog
+"Shopping Cart",Chest,module,Magento_Checkout
+"Shopping Cart Items","Items in Chest",module,Magento_Checkout
+Yes,Aye,module,Magento_Config
+Yes,Aye,module,Magento_Customer
+Customers,Pirates,module,Magento_Customer
+"Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Customer
+Yes,Aye,module,Magento_Downloadable
+Yes,Aye,module,Magento_Eav
+Yes,Aye,module,Magento_EncryptionKey
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Integration
+Remove,"T' Davy Jones' Locker wid it",module,Magento_LayeredNavigation
+"Add to Cart","Add to Chest",module,Magento_Msrp
+Yes,Aye,module,Magento_Payment
+Yes,Aye,module,Magento_Paypal
+Yes,Aye,module,Magento_Reports
+Customers,Pirates,module,Magento_Reports
+"Shopping Cart",Chest,module,Magento_Reports
+"Add to Cart","Add to Chest",module,Magento_Reports
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Rule
+Yes,Aye,module,Magento_SalesRule
+"Shopping Cart",Chest,module,Magento_Sales
+Yes,Aye,module,Magento_Sales
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Sales
+"Add to Cart","Add to Chest",module,Magento_Sales
+Yes,Aye,module,Magento_Search
+Remove,"T' Davy Jones' Locker wid it",module,Magento_SendFriend
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Theme
+Yes,Aye,module,Magento_Usps
+Yes,Aye,module,Magento_Variable
+"Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Wishlist
+"Add to Cart","Add to Chest",module,Magento_Wishlist
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Checkout
+Yes,Aye,module,Magento_CatalogRule
