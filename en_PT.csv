@@ -11,7 +11,7 @@ Yes,Aye,module,Magento_Backend
 "We can't refresh lifetime statistics.","We can nah refresh lifetime statistics.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Well shave me belly with a rusty razor! We can nah create a backup right now. Try again later.",module,Magento_Backend
 "Report Bugs","Repr't weevils",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirm scope switchin'. All data that has nah been saved will be lost. No quarter!",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirm scope switchin'. All data that has nah been saved will be lost. No quarter! ",module,Magento_Backend
 "We can't create the backup right now.","We can nah create th' backup right now.",module,Magento_Backup
 "We can't delete one or more backups.","We can nah scuttle one or more backups.",module,Magento_Backup
 "Can't load snapshot archive","Can nah load snapshot archive",module,Magento_Backup
@@ -51,6 +51,7 @@ Yes,Aye,module,Magento_Catalog
 "We can't add this item to your shopping cart right now.","Shave me belly wit' a rusty razor! We can nah add this item t' ye chest right now.",module,Magento_Checkout
 "We can't remove the item.","We can nah remove th' item.",module,Magento_Checkout
 "Shopping Cart Items","Items in Chest",module,Magento_Checkout
+"Privacy and Cookie Policy","Конфіденційність та політика Cookie",module,Magento_Cms
 Yes,Aye,module,Magento_Config
 Yes,Aye,module,Magento_Customer
 Customers,Pirates,module,Magento_Customer
@@ -80,7 +81,6 @@ Yes,Aye,module,Magento_Usps
 Yes,Aye,module,Magento_Variable
 "Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Wishlist
 "Add to Cart","Add to Chest",module,Magento_Wishlist
-Remove,"T' Davy Jones' Locker wid it",theme,frontend/Magento/luma
 Remove,"T' Davy Jones' Locker wid it",module,Magento_Checkout
 "We don't recognize or support this file extension type.","Fool! We do nah recognize or support this file extension type.",module,Magento_Backend
 Yes,Aye,module,Magento_CatalogRule
