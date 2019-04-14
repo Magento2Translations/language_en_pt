@@ -1,0 +1,84 @@
+Remove,"T' Davy Jones' Locker wid it",module,Magento_AdminNotification
+"Entity type model '%1' is not found","Blimey! Entity type model '%1' ain't found",module,Magento_AdvancedPricingImportExport
+"We can't find the role for the user you wanted.","Shiver me timbers! We can nah find th' role fer th' user ye wanted.",module,Magento_Authorization
+"We can't process your order right now. Please try again later.","We can nah process yer order right now. Try again later, ye salty sea bass.",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","Shiver me timbers! This bounty didn' work out 'cause we can nah find this order.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Somethin' went wrong: th' bounty amount doesn't match th' order amount. Correct this 'n try again, you scallywag.",module,Magento_Authorizenet
+Customers,Pirates,module,Magento_Backend
+Yes,Aye,module,Magento_Backend
+"We couldn't find any records.","Arrr! We couldn't find any logs.",module,Magento_Backend
+"Specified cache type(s) don't exist: %1","Blimey! Specified cache type(s) do nah exist: %1",module,Magento_Backend
+"We can't refresh lifetime statistics.","We can nah refresh lifetime statistics.",module,Magento_Backend
+"We can't create a backup right now. Please try again later.","Well shave me belly with a rusty razor! We can nah create a backup right now. Try again later.",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirm scope switchin'. All data that has nah been saved will be lost. No quarter! ",module,Magento_Backend
+"We can't create the backup right now.","We can nah create th' backup right now.",module,Magento_Backup
+"We can't delete one or more backups.","We can nah scuttle one or more backups.",module,Magento_Backup
+"Can't load snapshot archive","Can nah load snapshot archive",module,Magento_Backup
+"We can't find the backup file.","We can nah find th' backup file.",module,Magento_Backup
+"We can't connect to the FTP right now.","We can nah connect t' th' FTP right now.",module,Magento_Backup
+"We can't save the Cron expression.","We can nah save th' Cron expression.",module,Magento_Backup
+"We can't initialize checkout.","We can nah initialize checkout.",module,Magento_Braintree
+"Requested bundle option product doesn't exist","Requested bundle option product does nah exist",module,Magento_Bundle
+"Requested option doesn't exist","Requested option product does nah exist",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","We can nah add this item t' yer chest right now.",module,Magento_Bundle
+Yes,Aye,module,Magento_CatalogSearch
+"Add to Cart","Add to Chest",module,Magento_CatalogWidget
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","'tis used internally. Make sure ye don't use spaces or more than %1 symbols.",module,Magento_Catalog
+Yes,Aye,module,Magento_Catalog
+"We can't delete the attribute.","We can nah scuttle th' attribute.",module,Magento_Catalog
+"We can't find an attribute to delete.","We can nah find an attribute t' scuttle.",module,Magento_Catalog
+"We can't update the attribute.","We can nah update th' attribute.",module,Magento_Catalog
+"We can't delete this set right now.","We can nah scuttle this set right now.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","Sorry, but we can nah find th' new elder category ye selected.",module,Magento_Catalog
+"Sorry, but we can't find the new category you selected.","Sorry, but we can nah find th' new category ye selected.",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","We can nah move th' category 'cause th' elder category name matches th' sprog category name.",module,Magento_Catalog
+"Can't delete root category.","Can nah scuttle root category.",module,Magento_Catalog
+"We can't rebuild the index for an undefined product.","We can nah rebuild th' index fer an undefined product.",module,Magento_Catalog
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","We could nah copy file %1. Scuttle media wit' non-existin' images 'n try again.",module,Magento_Catalog
+"Such product doesn't exist","Such product does nah exist",module,Magento_Catalog
+"Such image doesn't exist","Such image does nah exist",module,Magento_Catalog
+"We couldn't move this file: %1.","We could nah move this file: %1.",module,Magento_Catalog
+"Please specify product's required option(s).","Specify product's required option(s).",module,Magento_Catalog
+"We can't add the product to the cart because of an option validation issue.","We can nah add th' product t' th' chest 'cause o' an option validation issue.",module,Magento_Catalog
+"File '%1' is not an image.","File '%1' ain't an image.",module,Magento_Catalog
+"This product doesn't have tier price","This product does nah 'ave tier price",module,Magento_Catalog
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Product has nah group price wit' such data: customerGroupId = '%1', website = %2, qty = %3",module,Magento_Catalog
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 does nah extends \Magento\Catalog\Model\Product\Type\AbstractType",module,Magento_Catalog
+"Add to Cart","Add to Chest",module,Magento_Catalog
+"Shopping Cart",Chest,module,Magento_Checkout
+"We can't add this item to your shopping cart right now.","Shave me belly wit' a rusty razor! We can nah add this item t' ye chest right now.",module,Magento_Checkout
+"We can't remove the item.","We can nah remove th' item.",module,Magento_Checkout
+"Shopping Cart Items","Items in Chest",module,Magento_Checkout
+"Privacy and Cookie Policy","Конфіденційність та політика Cookie",module,Magento_Cms
+Yes,Aye,module,Magento_Config
+Yes,Aye,module,Magento_Customer
+Customers,Pirates,module,Magento_Customer
+"Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Customer
+Yes,Aye,module,Magento_Downloadable
+Yes,Aye,module,Magento_Eav
+Yes,Aye,module,Magento_EncryptionKey
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Integration
+Remove,"T' Davy Jones' Locker wid it",module,Magento_LayeredNavigation
+"Add to Cart","Add to Chest",module,Magento_Msrp
+Yes,Aye,module,Magento_Payment
+Yes,Aye,module,Magento_Paypal
+Yes,Aye,module,Magento_Reports
+Customers,Pirates,module,Magento_Reports
+"Shopping Cart",Chest,module,Magento_Reports
+"Add to Cart","Add to Chest",module,Magento_Reports
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Rule
+Yes,Aye,module,Magento_SalesRule
+"Shopping Cart",Chest,module,Magento_Sales
+Yes,Aye,module,Magento_Sales
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Sales
+"Add to Cart","Add to Chest",module,Magento_Sales
+Yes,Aye,module,Magento_Search
+Remove,"T' Davy Jones' Locker wid it",module,Magento_SendFriend
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Theme
+Yes,Aye,module,Magento_Usps
+Yes,Aye,module,Magento_Variable
+"Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Wishlist
+"Add to Cart","Add to Chest",module,Magento_Wishlist
+Remove,"T' Davy Jones' Locker wid it",module,Magento_Checkout
+"We don't recognize or support this file extension type.","Fool! We do nah recognize or support this file extension type.",module,Magento_Backend
+Yes,Aye,module,Magento_CatalogRule
