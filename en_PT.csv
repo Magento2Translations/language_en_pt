@@ -19,7 +19,7 @@ Yes,Aye,module,Magento_Backend
 "Unable to delete website. Please, try again later.","Unable t' scuttle website. Try again later.",module,Magento_Backend
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. All jolly rights reserved.",module,Magento_Backend
 "Report Bugs","Repr't weevils",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirm scope switchin'. All data that has nah been saved will be lost. No quarter!",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Confirm scope switchin'. All data that has nah been saved will be lost. No quarter! ",module,Magento_Backend
 "Themes JavaScript and CSS files combined to one file.","Themes JavaScript 'n CSS files combined t' one file.",module,Magento_Backend
 "We can't create the backup right now.","We can nah create th' backup right now.",module,Magento_Backup
 "We can't delete one or more backups.","We can nah scuttle one or more backups.",module,Magento_Backup
@@ -146,9 +146,13 @@ Yes,Aye,module,Magento_Usps
 Yes,Aye,module,Magento_Variable
 "Are you sure you want to remove this item?","Are ye sure ye want to toss this item?",module,Magento_Wishlist
 "Add to Cart","Add to Chest",module,Magento_Wishlist
-Remove,"T' Davy Jones' Locker wid it",theme,frontend/Magento/luma
 "We don't recognize or support this file extension type.","Fool! We do nah recognize or support this file extension type.",module,Magento_Backend
 "Design Theme","Ye beauty! Design Theme",module,Magento_Backend
+"
+                        Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                    ","
+                        Search strin's are either normal strin's or regular exceptions (PCRE). They be matched in th' same order as boarded. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>
+                    ",module,Magento_Backend
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Find a strin' in client user-agent header 'n switch t' specific design theme fer that browser.",module,Magento_Backend
 "If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","If th' current frame position does nah cover utmost pages, will render link t' current position plus/minus this value.",module,Magento_Backend
 "Alternative text for previous link in pagination menu. If empty, default arrow image will used.","Alternative text fer previous link in pagination menu. If empty, default arrow image will used.",module,Magento_Backend
